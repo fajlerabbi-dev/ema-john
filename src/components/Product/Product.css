@@ -1,0 +1,24 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 40px;
+    padding: 30px;
+}
+
+.product-right {
+    padding: 20px;
+}
+
+.product-title {
+    color: blue;
+    font-weight: 400;
+}
+
+
+button.add-to-cart {
+    background: #f0c14b;
+    display: inline-block;
+    padding: 10px 60px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}

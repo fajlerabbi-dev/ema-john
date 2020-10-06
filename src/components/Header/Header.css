@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+}
+.header .site-logo {
+    margin: 20px 0;
+    height: 80px;
+}
+.header nav {
+    text-align: left;
+    background: #000;
+}
+
+.header nav a {
+    display: inline-block;
+    padding: 20px 30px;
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.header nav a:hover {
+    background: #ff9800;
+}
